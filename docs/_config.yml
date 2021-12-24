@@ -20,6 +20,7 @@
 
 domain: luv-lab.github.io
 url: https://luv-lab.github.io
+baseurl: /docs/
 
 gem "minima", "~> 2.5"
 title: Language Use and Variation Lab (LUV Lab)
